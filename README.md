@@ -23,8 +23,8 @@ O Design foi proposto pelo UX/UI Designer João Paulo, que apresentou o projeto 
 
 ### Projeto no Figma
 
-![Demostração](https://raw.githubusercontent.com/danilogocarlos/trade_app/master/assets/img/figma.gif)
+![Demostração](https://raw.githubusercontent.com/danilogocarlos/trade_app/main/lib/assets/img/figma.png)
 
 ### Projeto em Flutter
 
-![Demostração](https://raw.githubusercontent.com/danilogocarlos/trade_app/master/assets/img/video.gif)
+![Demostração](https://raw.githubusercontent.com/danilogocarlos/trade_app/main/lib/assets/img/video.gif)
